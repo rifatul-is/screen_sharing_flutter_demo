@@ -1,0 +1,61 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_foreground_task (0.0.1):
+    - Flutter
+  - flutter_webrtc (0.9.36):
+    - Flutter
+    - WebRTC-SDK (= 114.5735.08)
+  - image_gallery_saver (2.0.2):
+    - Flutter
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - permission_handler_apple (9.3.0):
+    - Flutter
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - WebRTC-SDK (114.5735.08)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_foreground_task (from `.symlinks/plugins/flutter_foreground_task/ios`)
+  - flutter_webrtc (from `.symlinks/plugins/flutter_webrtc/ios`)
+  - image_gallery_saver (from `.symlinks/plugins/image_gallery_saver/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - shared_preferences_foundation (from `.symlinks/plugins/shared_preferences_foundation/darwin`)
+
+SPEC REPOS:
+  trunk:
+    - WebRTC-SDK
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_foreground_task:
+    :path: ".symlinks/plugins/flutter_foreground_task/ios"
+  flutter_webrtc:
+    :path: ".symlinks/plugins/flutter_webrtc/ios"
+  image_gallery_saver:
+    :path: ".symlinks/plugins/image_gallery_saver/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  shared_preferences_foundation:
+    :path: ".symlinks/plugins/shared_preferences_foundation/darwin"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  flutter_foreground_task: 21ef182ab0a29a3005cc72cd70e5f45cb7f7f817
+  flutter_webrtc: 55df3aaa802114dad390191a46c2c8d535751268
+  image_gallery_saver: cb43cc43141711190510e92c460eb1655cd343cb
+  path_provider_foundation: 3784922295ac71e43754bd15e0653ccfd36a147c
+  permission_handler_apple: 036b856153a2b1f61f21030ff725f3e6fece2b78
+  shared_preferences_foundation: b4c3b4cddf1c21f02770737f147a3f5da9d39695
+  WebRTC-SDK: c24d2a6c9f571f2ed42297cb8ffba9557093142b
+
+PODFILE CHECKSUM: caf29caed66de9e744bb5d903bfad2acf71412ee
+
+COCOAPODS: 1.14.3
